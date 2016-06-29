@@ -1,0 +1,2 @@
+e "C:\Program Files (x86)\Notepad++\notepad++.exe" $*
+sm "C:\Program Files\Sublime Text 3\sublime_text.exe" $*
